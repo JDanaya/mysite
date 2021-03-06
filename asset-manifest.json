@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.a32b5059.chunk.css",
+    "main.js": "/mysite/static/js/main.96bbcf78.chunk.js",
+    "main.js.map": "/mysite/static/js/main.96bbcf78.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.8c9947cd.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.8c9947cd.js.map",
+    "static/js/2.fed388ab.chunk.js": "/mysite/static/js/2.fed388ab.chunk.js",
+    "static/js/2.fed388ab.chunk.js.map": "/mysite/static/js/2.fed388ab.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "precache-manifest.b953526a1819a4bdae9f01d200b75671.js": "/mysite/precache-manifest.b953526a1819a4bdae9f01d200b75671.js",
+    "service-worker.js": "/mysite/service-worker.js",
+    "static/css/main.a32b5059.chunk.css.map": "/mysite/static/css/main.a32b5059.chunk.css.map",
+    "static/js/2.fed388ab.chunk.js.LICENSE.txt": "/mysite/static/js/2.fed388ab.chunk.js.LICENSE.txt",
+    "static/media/8401.jpg": "/mysite/static/media/8401.ff31f6d2.jpg",
+    "static/media/imgp.png": "/mysite/static/media/imgp.ffdf345a.png",
+    "static/media/reven.png": "/mysite/static/media/reven.9bc995b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9947cd.js",
+    "static/js/2.fed388ab.chunk.js",
+    "static/css/main.a32b5059.chunk.css",
+    "static/js/main.96bbcf78.chunk.js"
+  ]
+}
